@@ -6,6 +6,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Person A should modify content here.
 
+Here are some changes from CB.
+
 ## Person B:
 
 Person B should modify content here.
